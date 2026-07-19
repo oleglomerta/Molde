@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="docs/media/Logo_name.png" width="800">
+</p>
+
 # Molde
 > Open modular hardware platform for rapid physical prototyping.
 
