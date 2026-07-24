@@ -3,6 +3,9 @@
 </p>
 
 # Molde
+> 📖 Follow the development on Hackaday:
+> https://hackaday.io/project/206186-molde
+
 > Open modular hardware platform for rapid physical prototyping.
 
 ## Overview
